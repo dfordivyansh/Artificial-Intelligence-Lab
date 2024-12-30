@@ -1,0 +1,1 @@
+This is a simple example to demonstrate how stop words can be removed from a given text passage.
